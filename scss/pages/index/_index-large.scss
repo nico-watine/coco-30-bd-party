@@ -1,12 +1,12 @@
 @include breakpoint(large) {
 	.index#index {
 		.splash-prose {
-			max-width: 680px;
-			padding-top: 24px;
+			max-width: rem-calc(680);
+			padding-top: rem-calc(24);
 			margin: 0 0 rem-calc(24);
 
 			.inner {
-				border-radius: 0 12px 12px 0;
+				border-radius: rem-calc(0 12 12 0);
 				padding: rem-calc(48 16 48 56);
 			}
 		}
