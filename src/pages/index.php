@@ -8,7 +8,7 @@ og-image:
 body-id: index
 body-class: index
 ---
-<div class="grid-x align-middle splash-landing" style="height: 100vh; ">
+<div class="grid-x align-middle splash-landing" style="min-height: 100vh; ">
 	<div class="cell">
 		<section class="splash-prose" style="max-width: 680px; width: 100%;">
 			<div class="inner" style="margin-bottom: 24px; padding-left: 56px; padding-top: 48px; padding-bottom: 48px; padding-right: 16px;">
