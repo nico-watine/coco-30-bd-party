@@ -100,6 +100,48 @@
 		"oAP": "/assets/robots.txt",
 		"oF": 0
 		},
+	"/beach-party/beach-party.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/beach-party/beach-party-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"/beach-party/beach-party.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/beach-party/beach-party.otf",
+		"oF": 0
+		},
+	"/beach-party/beach-party.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/beach-party/beach-party.ttf",
+		"oF": 0
+		},
+	"/beach-party/beach-party.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/beach-party/beach-party.woff",
+		"oF": 0
+		},
+	"/beach-party/beach-party.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/beach-party/beach-party.woff2",
+		"oF": 0
+		},
 	"/bower.json": {
 		"ft": 524288,
 		"oA": 1,
