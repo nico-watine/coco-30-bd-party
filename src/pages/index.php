@@ -1,9 +1,9 @@
 ---
 url: /
-title:
-description:
-og-title:
-og-description:
+title: Corinne's 30th Birthday Pool Party
+description: Come RSVP for Corinne's 30th birthday Pool Party
+og-title: Corinne's 30th Birthday Pool Party Invite
+og-description: Come RSVP to celebrate Corinne's 30th birthday at her Pool Party
 og-image:
 body-id: index
 body-class: index
