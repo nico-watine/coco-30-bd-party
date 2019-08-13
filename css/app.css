@@ -8413,3 +8413,5 @@ a:not(.button) {
 .index#index .splash-prose {
   background: rgba(213, 159, 83, 0.65);
   border-radius: 0 12px 12px 0; }
+  .index#index .splash-prose .h1-large.script-font {
+    font-size: 10rem; }

@@ -6,5 +6,9 @@
 	.splash-prose {
 		background: rgba(213,159,83,.65);
 		border-radius: 0 12px 12px 0;
+
+		.h1-large.script-font {
+			font-size: rem-calc(160);
+		}
 	}
 }
