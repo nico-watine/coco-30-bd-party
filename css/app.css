@@ -8456,35 +8456,12 @@ a:not(.button) {
       letter-spacing: 0.0625rem; } }
 
 @media print, screen and (min-width: 64em) {
-  .index#index .splash-landing {
-    background: url("/img/index/splash-bg.png") center/cover no-repeat;
-    min-height: 100vh; }
   .index#index .splash-prose {
     max-width: 680px;
-    width: 100%;
-    padding-top: 24px;
-    padding-bottom: 24px; }
+    padding-top: 24px; }
     .index#index .splash-prose .inner {
-      background: rgba(213, 159, 83, 0.65);
       border-radius: 0 12px 12px 0;
-      margin-bottom: 24px;
-      padding-left: 56px;
-      padding-top: 48px;
-      padding-bottom: 48px;
-      padding-right: 16px; }
-      .index#index .splash-prose .inner h1,
-      .index#index .splash-prose .inner h1 * {
-        line-height: 1; }
-      .index#index .splash-prose .inner .h1-large.script-font {
-        font-size: 10rem; }
-      .index#index .splash-prose .inner .white-hr {
-        height: 8px;
-        background: #fff;
-        width: 100%;
-        max-width: 280px; }
-      .index#index .splash-prose .inner .h3 {
-        line-height: 1.2;
-        max-width: 560px; }
+      padding: 3rem 1rem 3rem 3.5rem; }
     .index#index .splash-prose .rsvp-button {
       padding: 16px 80px;
       background: #e9e9e9;
