@@ -6176,6 +6176,12 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"/dist": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "/build/dist",
+		"oF": 0
+		},
 	"/fonts/beach-party/beach-party.otf": {
 		"cB": 0,
 		"ft": 8192,
@@ -6594,8 +6600,8 @@
 	},
 "projectAttributes": {
 	"creationDate": 502296054,
-	"displayValue": "coco-30-bd-party.local",
-	"displayValueWasSetByUser": 0,
+	"displayValue": "coco-30-bd-party",
+	"displayValueWasSetByUser": 1,
 	"iconImageName": "brackets-pink",
 	"iconImageWasSetByUser": 1
 	},
