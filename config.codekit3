@@ -76,6 +76,72 @@
 		"oAP": "/assets/404.html",
 		"oF": 0
 		},
+	"/assets/apple-touch-icon-120x120-precomposed.png": {
+		"ft": 32768,
+		"iS": 22519,
+		"oA": 1,
+		"oAP": "/assets/apple-touch-icon-120x120-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/apple-touch-icon-152x152-precomposed.png": {
+		"ft": 32768,
+		"iS": 34403,
+		"oA": 1,
+		"oAP": "/assets/apple-touch-icon-152x152-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/apple-touch-icon-180x180-precomposed.png": {
+		"ft": 32768,
+		"iS": 46096,
+		"oA": 1,
+		"oAP": "/assets/apple-touch-icon-180x180-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/apple-touch-icon-76x76-precomposed.png": {
+		"ft": 32768,
+		"iS": 10411,
+		"oA": 1,
+		"oAP": "/assets/apple-touch-icon-76x76-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 46096,
+		"oA": 1,
+		"oAP": "/assets/apple-touch-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/favicon.png": {
+		"ft": 32768,
+		"iS": 6709,
+		"oA": 1,
+		"oAP": "/assets/favicon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/assets/humans.txt": {
 		"cB": 0,
 		"ft": 8192,
@@ -99,6 +165,39 @@
 		"oA": 2,
 		"oAP": "/assets/robots.txt",
 		"oF": 0
+		},
+	"/assets/tile-wide.png": {
+		"ft": 32768,
+		"iS": 79627,
+		"oA": 1,
+		"oAP": "/assets/tile-wide.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/tile.png": {
+		"ft": 32768,
+		"iS": 268503,
+		"oA": 1,
+		"oAP": "/assets/tile.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/touch-icon-192x192.png": {
+		"ft": 32768,
+		"iS": 51476,
+		"oA": 1,
+		"oAP": "/assets/touch-icon-192x192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"/bower.json": {
 		"ft": 524288,
