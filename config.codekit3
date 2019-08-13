@@ -6236,6 +6236,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/img/index/og-image.jpg": {
+		"ft": 16384,
+		"iS": 306605,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/img/index/og-image.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/index/splash-bg.png": {
 		"ft": 32768,
 		"iS": 3926272,
@@ -6612,6 +6623,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/src/layouts/default.html",
+		"oF": 0
+		},
+	"/src/pages/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/src/pages/index.php",
 		"oF": 0
 		},
 	"/src/partials/_notes.txt": {
