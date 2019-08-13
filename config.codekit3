@@ -131,6 +131,14 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/assets/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/favicon.ico",
+		"oF": 0
+		},
 	"/assets/favicon.png": {
 		"ft": 32768,
 		"iS": 6709,
