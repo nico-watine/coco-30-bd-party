@@ -8,7 +8,7 @@ og-image:
 body-id: index
 body-class: index
 ---
-<div class="grid-x align-middle splash-landing">
+<div class="grid-x large-align-middle splash-landing">
 	<div class="cell">
 		<section class="splash-prose">
 			<div class="inner">
