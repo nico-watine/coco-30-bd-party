@@ -1,0 +1,31 @@
+@include breakpoint(medium) {
+	.index#index {
+		.splash-landing {
+			background-image: url(/img/index/splash-bg.png);
+		}
+
+		.splash-prose {
+			max-width: rem-calc(620);
+
+			.inner {
+				.h1-large.script-font {
+					font-size: rem-calc(160);
+				}
+
+				.white-hr {
+					max-width: rem-calc(280);
+				}
+
+				.h3 {
+					max-width: rem-calc(560);
+				}
+			}
+
+			.rsvp-button {
+				padding: rem-calc(16) rem-calc(80);
+				font-size: rem-calc(36);
+				letter-spacing: rem-calc(1);
+			}
+		}
+	}
+}

@@ -6247,6 +6247,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/img/index/splash-img-small.png": {
+		"ft": 32768,
+		"iS": 995993,
+		"oA": 1,
+		"oAP": "/img/index/splash-img-small.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/js/app-min.js": {
 		"bF": 0,
 		"ft": 64,
@@ -6503,7 +6514,7 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/pages/index/_index-text-block.scss": {
+	"/scss/pages/index/_index-large.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -6511,7 +6522,33 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/scss/pages/css/_index-text-block.css",
+		"oAP": "/scss/pages/css/_index-large.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/scss/pages/index/_index-medium.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/pages/css/_index-medium.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/scss/pages/index/_index-small.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/pages/css/_index-small.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
