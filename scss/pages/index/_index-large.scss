@@ -1,5 +1,11 @@
 @include breakpoint(large) {
 	.index#index {
+		.splash-landing {
+			.cell {
+				@include flex-align-self(middle);
+			}
+		}
+
 		.splash-prose {
 			max-width: rem-calc(680);
 			padding-top: rem-calc(24);
