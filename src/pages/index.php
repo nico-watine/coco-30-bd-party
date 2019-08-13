@@ -17,7 +17,7 @@ body-class: index
 				<h3 class="m-0 h3" style="max-width: 560px;">Come celebrate her 30th birthday with sunshine, pool time & lunch</h3>
 			</div>
 			<div class="text-center">
-				<a href="" class="button" style="padding: 16px 80px; background: #E9E9E9;border: 4px solid #D59F53;border-radius: 12px; font-size: 24px; letter-spacing: 1px; color: #000;"><strong>RSVP</strong></a>
+				<a href="https://c30bd.app.rsvpify.com" class="button" style="padding: 16px 80px; background: #E9E9E9;border: 4px solid #D59F53;border-radius: 12px; font-size: 24px; letter-spacing: 1px; color: #000;"><strong>RSVP</strong></a>
 			</div>
 		</section>
 	</div>
