@@ -8413,7 +8413,6 @@ a:not(.button) {
 
 .index#index .splash-prose {
   max-width: 320px;
-  width: 100%;
   margin: 0 auto 24px; }
   .index#index .splash-prose .inner {
     background: rgba(213, 159, 83, 0.65);
