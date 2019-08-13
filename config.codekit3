@@ -6236,6 +6236,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/img/index/splash-bg.png": {
+		"ft": 32768,
+		"iS": 3926272,
+		"oA": 1,
+		"oAP": "/img/index/splash-bg.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/js/app-min.js": {
 		"bF": 0,
 		"ft": 64,
