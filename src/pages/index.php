@@ -16,7 +16,9 @@ body-class: index
 				<div class="white-hr mb-32" style="height: 8px; background: #fff; width: 100%; max-width: 280px;"></div>
 				<h3 class="m-0 h3" style="max-width: 560px;">Come celebrate her 30th birthday with sunshine, pool time & lunch</h3>
 			</div>
+			<div class="text-center">
+				<a href="" class="button">RSVP</a>
+			</div>
 		</section>
-		<a href="" class="button">RSVP</a>
 	</div>
 </div>
