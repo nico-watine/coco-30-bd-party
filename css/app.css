@@ -8408,7 +8408,7 @@ a:not(.button) {
   margin-bottom: 2.5rem !important; }
 
 .index#index .splash-landing {
-  background: url("/img/index/splash-bg.png") center/cover no-repeat;
+  background: url("/img/index/splash-img-small.png") center/cover no-repeat;
   min-height: 100vh; }
 
 @media print, screen and (min-width: 64em) {
