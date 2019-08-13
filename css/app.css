@@ -8427,7 +8427,7 @@ a:not(.button) {
     .index#index .splash-prose .inner h1 * {
       line-height: 1; }
     .index#index .splash-prose .inner .h1-large.script-font {
-      font-size: 10rem; }
+      font-size: 5rem; }
     .index#index .splash-prose .inner .white-hr {
       height: 8px;
       background: #fff;
