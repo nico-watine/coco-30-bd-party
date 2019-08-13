@@ -330,13 +330,13 @@ h6, .h6 {
 
 @media print, screen and (min-width: 40em) {
   h1, .h1 {
-    font-size: 3.125rem; }
+    font-size: 5.0625rem; }
   h2, .h2 {
-    font-size: 2.375rem; }
+    font-size: 3.375rem; }
   h3, .h3 {
-    font-size: 1.75rem; }
+    font-size: 2.25rem; }
   h4, .h4 {
-    font-size: 1.3125rem; }
+    font-size: 1.5rem; }
   h5, .h5 {
     font-size: 1rem; }
   h6, .h6 {
@@ -8413,3 +8413,8 @@ a:not(.button) {
 .index#index .splash-prose {
   background: rgba(213, 159, 83, 0.65);
   border-radius: 0 12px 12px 0; }
+  .index#index .splash-prose h1,
+  .index#index .splash-prose h1 * {
+    line-height: 1; }
+  .index#index .splash-prose .h1-large.script-font {
+    font-size: 10rem; }
