@@ -5,7 +5,7 @@
 		}
 
 		.splash-prose {
-			max-width: 620px;
+			max-width: rem-calc(620);
 
 			.inner {
 				.h1-large.script-font {
@@ -13,18 +13,18 @@
 				}
 
 				.white-hr {
-					max-width: 280px;
+					max-width: rem-calc(280);
 				}
 
 				.h3 {
-					max-width: 560px;
+					max-width: rem-calc(560);
 				}
 			}
 
 			.rsvp-button {
-				padding: 16px 80px;
-				font-size: 36px;
-				letter-spacing: 1px;
+				padding: rem-calc(16) rem-calc(80);
+				font-size: rem-calc(36);
+				letter-spacing: rem-calc(1);
 			}
 		}
 	}
