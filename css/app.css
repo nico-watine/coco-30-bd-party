@@ -8448,9 +8448,7 @@ a:not(.button) {
   .index#index .splash-landing {
     background-image: url(/img/index/splash-bg.png); }
   .index#index .splash-prose {
-    max-width: 620px;
-    width: 100%;
-    margin: 0 auto 24px; }
+    max-width: 620px; }
     .index#index .splash-prose .inner {
       background: rgba(213, 159, 83, 0.65);
       border-radius: 0 0 12px 12px;
