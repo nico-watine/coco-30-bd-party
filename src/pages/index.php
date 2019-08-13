@@ -10,7 +10,7 @@ body-class: index
 ---
 <div class="grid-x align-middle splash-landing" style="min-height: 100vh; ">
 	<div class="cell">
-		<section class="splash-prose" style="max-width: 680px; width: 100%;">
+		<section class="splash-prose" style="max-width: 680px; width: 100%; padding-top: 24px; padding-bottom: 24px;">
 			<div class="inner" style="margin-bottom: 24px; padding-left: 56px; padding-top: 48px; padding-bottom: 48px; padding-right: 16px;">
 				<h1 class="m-0"><span class="h3 display-block">You are invited to</span> <span class="mb-16 h2 display-block">Corinne’s <strong>30th</strong> birthday</span> <span class="h1-large script-font display-block">Pool Party!</span></h1>
 				<div class="white-hr mb-32" style="height: 8px; background: #fff; width: 100%; max-width: 280px;"></div>
