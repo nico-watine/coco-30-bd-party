@@ -8418,10 +8418,7 @@ a:not(.button) {
     background: rgba(213, 159, 83, 0.65);
     border-radius: 0 0 0.75rem 0.75rem;
     margin-bottom: 1.5rem;
-    padding-left: 1rem;
-    padding-top: 2.25rem;
-    padding-bottom: 2.25rem;
-    padding-right: 1rem; }
+    padding: 2.25rem 1rem; }
     .index#index .splash-prose .inner h1,
     .index#index .splash-prose .inner h1 * {
       line-height: 1; }
