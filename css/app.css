@@ -8406,3 +8406,10 @@ a:not(.button) {
 .my-40 {
   margin-top: 2.5rem !important;
   margin-bottom: 2.5rem !important; }
+
+.index#index .splash-landing {
+  background: url("/img/index/splash-bg.png") center/cover no-repeat; }
+
+.index#index .splash-prose {
+  background: rgba(213, 159, 83, 0.65);
+  border-radius: 0 12px 12px 0; }

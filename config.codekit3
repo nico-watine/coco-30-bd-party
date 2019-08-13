@@ -6236,6 +6236,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/img/index/splash-bg.png": {
+		"ft": 32768,
+		"iS": 3926272,
+		"oA": 1,
+		"oAP": "/img/index/splash-bg.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/js/app-min.js": {
 		"bF": 0,
 		"ft": 64,
@@ -6488,6 +6499,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/scss/components/css/_spacing.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/scss/pages/index/_index-text-block.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/pages/css/_index-text-block.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
