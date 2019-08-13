@@ -8456,6 +8456,8 @@ a:not(.button) {
       letter-spacing: 0.0625rem; } }
 
 @media print, screen and (min-width: 64em) {
+  .index#index .splash-landing .cell {
+    align-self: center; }
   .index#index .splash-prose {
     max-width: 42.5rem;
     padding-top: 1.5rem;
