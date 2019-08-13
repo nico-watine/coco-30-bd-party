@@ -7883,10 +7883,19 @@ ol.list-upper-roman {
 .long-delay {
   animation-delay: 700ms !important; }
 
+@font-face {
+  font-family: 'Beach Party';
+  src: url("/fonts/beach-party/beach-party.woff2") format("woff2"), url("/fonts/beach-party/beach-party.woff") format("woff"), url("/fonts/beach-party/beach-party.otf") format("opentype");
+  font-style: normal;
+  font-weight: 400; }
+
 a:not(.button) {
   text-decoration: underline; }
   a:not(.button):hover {
     text-decoration: none; }
+
+.script-font {
+  font-family: "Beach Party"; }
 
 .box-shadow-1 {
   box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
