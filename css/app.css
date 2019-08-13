@@ -8408,7 +8408,7 @@ a:not(.button) {
   margin-bottom: 2.5rem !important; }
 
 .index#index .splash-landing {
-  background: url("/img/index/splash-img-small.png") center/cover no-repeat;
+  background: url("/img/index/splash-img-small.jpg") center/cover no-repeat;
   min-height: 100vh; }
 
 .index#index .splash-prose {
@@ -8441,7 +8441,7 @@ a:not(.button) {
 
 @media print, screen and (min-width: 40em) {
   .index#index .splash-landing {
-    background-image: url(/img/index/splash-bg.png); }
+    background-image: url(/img/index/splash-bg.jpg); }
   .index#index .splash-prose {
     max-width: 38.75rem; }
     .index#index .splash-prose .inner .h1-large.script-font {
